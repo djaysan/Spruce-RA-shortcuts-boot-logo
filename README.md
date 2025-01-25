@@ -2,6 +2,7 @@
 RA Shortcuts on boot for Spruce Os:
 
 ![boot-logo](https://github.com/user-attachments/assets/249cf368-0567-47ad-8505-938ecae51311)
+![RA](https://github.com/user-attachments/assets/ffb8ce64-4b8c-4374-80c5-0cfd2539cfa5)
 
 Keeping up with all the shotcuts when you have different devices might be challenging... 
 I created this bootlogo as a quick reminder - specially if you plan to gift your Miyoo A30 device.
