@@ -1,9 +1,11 @@
 # Spruce-RA-shortcuts-boot-logo
 RA Shortcuts on boot for Spruce Os:
+
 ![Frame 41](https://github.com/user-attachments/assets/6f9b8d0b-0376-4885-8cc5-6d3f12f1f7ab)
 
 
 New splash added "Nyntendo":
+
 ![Frame 3](https://github.com/user-attachments/assets/3f8adc34-9cb4-4069-a5c9-0d9e769a7591)
 
 
