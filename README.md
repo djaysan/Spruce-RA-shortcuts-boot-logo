@@ -1,8 +1,11 @@
 # Spruce-RA-shortcuts-boot-logo
 RA Shortcuts on boot for Spruce Os:
+![Frame 41](https://github.com/user-attachments/assets/6f9b8d0b-0376-4885-8cc5-6d3f12f1f7ab)
 
-![boot-logo](https://github.com/user-attachments/assets/249cf368-0567-47ad-8505-938ecae51311)
-![RA](https://github.com/user-attachments/assets/ffb8ce64-4b8c-4374-80c5-0cfd2539cfa5)
+
+New splash added "Nyntendo":
+![Frame 3](https://github.com/user-attachments/assets/3f8adc34-9cb4-4069-a5c9-0d9e769a7591)
+
 
 Keeping up with all the shotcuts when you have different devices might be challenging... 
 I created this bootlogo as a quick reminder - specially if you plan to gift your Miyoo A30 device.
